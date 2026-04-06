@@ -44,15 +44,6 @@ I have categorized my skills based on my current level of experience:
 
 - 🌐 **Angular Project:** Building a web application to practice my frontend skills.
 - 📁 **Web page:** Developing a web page with HTML, CSS, XML, Json.
-- ✍️ **Study Notes:** Keeping my knowledge organized in my personal repository.
-
----
-
-### 📂 Knowledge Repository
-
-I maintain a Google Drive with my study notes. *Note: I am currently updating the C#, HTML, and CSS sections.*
-
-👉 [My Google Drive Notes](https://docs.google.com/document/d/1iOwdetSf7Kyls2Fd1fUq7M-AwDEa0Cf0wqQVRkxEEE0/edit?usp=sharing)
 
 ---
 
