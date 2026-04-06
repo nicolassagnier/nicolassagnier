@@ -19,7 +19,7 @@ I have categorized my skills based on my current level of experience:
 
 #### **🟦 Solid Foundations**
 *Technologies I use extensively in my current courses:*
-- **Languages & Frameworks:** C#, Windows Forms.
+- **C# Development:** Console Applications & Windows Forms.
 - **Databases:** MySQL, MariaDB, PostgreSQL.
 - **Modeling:** Entity-Relationship (ER) & Relational (MR) models.
 
