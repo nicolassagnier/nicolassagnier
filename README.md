@@ -27,13 +27,14 @@ I have categorized my skills based on my current level of experience:
 *Technologies I am comfortable with but still mastering:*
 - **Web Development:** HTML5, CSS3.
 - **Logic & Scripting:** Python, Git.
-- **Systems:** Computer Networking, Systems Administration, REST APIs.
+- **Systems:** Computer Networking, Systems Administration.
 
 #### **🟩 Recently Started / Exploring**
 *Skills I have recently started learning (from foundations to initial projects):*
 - **Modern Frameworks:** Angular, TypeScript.
 - **Data Structures:** XML, DTD, JSON, JSON Schema, JSON Query.
 - **Data Processing:** XSLT, XPATH, XSD, Papyrus Eclipse.
+- - **Systems:** REST APIs.
 
 #### **🛡️ Self-Taught / Hobby**
 - **Ethical Hacking:** I enjoy setting up labs and exploiting Virtual Machines for fun and learning to understand security vulnerabilities.
