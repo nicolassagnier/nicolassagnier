@@ -17,19 +17,19 @@ I am a student from **Catalonia**, currently balancing dual studies at **IOC** (
 
 I have categorized my skills based on my current level of experience:
 
-#### **🟦 Solid Foundations (Nivel bien trabajado)**
+#### **🟦 Solid Foundations**
 *Technologies I use extensively in my current courses:*
 - **Languages & Frameworks:** C#, Windows Forms.
 - **Databases:** MySQL, MariaDB, PostgreSQL.
 - **Modeling:** Entity-Relationship (ER) & Relational (MR) models.
 
-#### **🟨 Basic Level (Nivel básico)**
+#### **🟨 Basic Level**
 *Technologies I am comfortable with but still mastering:*
 - **Web Development:** HTML5, CSS3.
 - **Logic & Scripting:** Python, Git.
 - **Systems:** Computer Networking, Systems Administration, REST APIs.
 
-#### **🟩 Recently Started / Exploring (Recién aprendiendo)**
+#### **🟩 Recently Started / Exploring**
 *Skills I have recently started learning (from foundations to initial projects):*
 - **Modern Frameworks:** Angular, TypeScript.
 - **Data Structures:** XML, DTD, JSON, JSON Schema, JSON Query.
