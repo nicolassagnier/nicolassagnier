@@ -25,7 +25,7 @@ I have categorized my skills based on my current level of experience:
 
 #### **🟨 Basic Level**
 *Technologies I am comfortable with but still mastering:*
-- **Web Development:** HTML5, CSS3.
+- **Web Development:** HTML5, CSS.
 - **Logic & Scripting:** Python, Git.
 - **Systems:** Computer Networking, Systems Administration.
 
