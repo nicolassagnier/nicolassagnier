@@ -44,7 +44,7 @@ I have categorized my skills based on my current level of experience:
 
 ### 🛠️ Current Projects
 
-- 🌐 **Angular Project:** Building a web application to practice my frontend skills.
+- 🌐 **Angular Project:** Building a web application to practice my frontend, backend, network and system skills.
 - 📁 **Web page:** Developing a web page with HTML, CSS, XML, Json.
 
 ---
