@@ -35,6 +35,7 @@ I have categorized my skills based on my current level of experience:
 - **Data Structures:** XML, DTD, JSON, JSON Schema, JSON Query.
 - **Data Processing:** XSLT, XPATH, XSD, Papyrus Eclipse.
 - **Systems:** REST APIs.
+- **compiler:** C.
 
 #### **🛡️ Self-Taught / Hobby**
 - **Ethical Hacking:** I enjoy setting up labs and exploiting Virtual Machines for fun and learning to understand security vulnerabilities.
