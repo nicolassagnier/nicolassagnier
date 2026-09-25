@@ -1,6 +1,6 @@
 # Hi there! I'm Nicolás Sagnier 👋
 
-I am a student from **Catalonia**, currently studying Web Application Development. My professional goal is to specialize in **Cybersecurity** after completing my current programs.
+I am a student from **Catalonia**, currently studying Web Application Development. My professional goal is to specialize in **Cybersecurity** and **AI/Big Data** after completing my current programs.
 
 ---
 
