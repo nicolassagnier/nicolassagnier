@@ -1,12 +1,13 @@
 # Hi there! I'm Nicolás Sagnier 👋
 
-I am a student from **Catalonia**, currently balancing dual studies at **IOC** (Institut Obert de Catalunya) and **SOC**. My professional goal is to specialize in **Cybersecurity** after completing my current programs.
+I am a student from **Catalonia**, currently studying Web Application Development. My professional goal is to specialize in **Cybersecurity** after completing my current programs.
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Student at **IOC** & **SOC**.
+- 🎓 Studied **IOC** & **SOC** at the same time.
+- 🎓 Studying Higher degree in Web Application Development.
 - 🎯 Goal: Pursue a Higher Degree in **Cybersecurity**.
 - 🛠️ Deeply interested in systems, networking, and ethical hacking.
 - ⛪ Outside of code: Arm wrestling enthusiast, VM hobbyist, and a person of faith (Christian).
