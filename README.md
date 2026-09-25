@@ -38,7 +38,7 @@ I have categorized my skills based on my current level of experience:
 
 #### **🛡️ Self-Taught / Hobby**
 - **Ethical Hacking:** I enjoy setting up labs and exploiting Virtual Machines for fun and learning to understand security vulnerabilities.
-
+- **C++:** It's useful to know a bit of the language, and I plan to work on projects, like making a 2D for fun.
 ---
 
 ### 🛠️ Current Projects
